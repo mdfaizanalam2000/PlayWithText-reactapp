@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/PlayWithText-reactapp/static/css/main.073c9b0a.css",
-    "main.js": "/PlayWithText-reactapp/static/js/main.be721b34.js",
+    "main.js": "/PlayWithText-reactapp/static/js/main.f8e500fd.js",
     "static/js/787.5480e000.chunk.js": "/PlayWithText-reactapp/static/js/787.5480e000.chunk.js",
     "index.html": "/PlayWithText-reactapp/index.html",
     "main.073c9b0a.css.map": "/PlayWithText-reactapp/static/css/main.073c9b0a.css.map",
-    "main.be721b34.js.map": "/PlayWithText-reactapp/static/js/main.be721b34.js.map",
+    "main.f8e500fd.js.map": "/PlayWithText-reactapp/static/js/main.f8e500fd.js.map",
     "787.5480e000.chunk.js.map": "/PlayWithText-reactapp/static/js/787.5480e000.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.be721b34.js"
+    "static/js/main.f8e500fd.js"
   ]
 }
